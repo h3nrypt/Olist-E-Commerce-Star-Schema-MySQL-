@@ -1,4 +1,4 @@
-# Olist E-Commerce Star Schema (MySQL)
+# Portfolio: Olist E-Commerce Star Schema (MySQL)
 
 A dimensional model built in MySQL on top of the Olist Brazilian
 E-Commerce Public Dataset — raw CSVs taken through a staging layer into a
@@ -75,3 +75,5 @@ This is a companion piece to an earlier project,
 [`superstore-star-schema-mysql-powerbi`](https://github.com/h3nrypt/superstore-star-schema-mysql-powerbi) —
 same dimensional modeling approach, different dataset and a different
 set of data quality problems to solve.
+
+**Portfolio Project**: Part of h3nrypt's portfolio demonstrating dimensional data modeling and MySQL schema design.
